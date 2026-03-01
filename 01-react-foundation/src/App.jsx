@@ -1,11 +1,11 @@
 import './App.css'
-// import MultiCounter from './components/MultiCounter'
+import UserCard from './components/UserCard'
 
 function App() {
 
     return (
         <>
-            // <MultiCounter />
+            <UserCard />
         </>
     )
 }

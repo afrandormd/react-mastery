@@ -19,3 +19,23 @@ p {
     color: #333;
     font-size: 18px;
 }
+
+.user-card {
+    background-color: lightgrey;
+    border-radius: 5%;
+    padding: 20px;
+}
+
+.status {
+    color: green;
+    font-weight: bold;
+    padding: 3px 6px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 6px 0;
+}
+
+.experience {
+    font-weight: bold;
+    text-align: center;
+}
